@@ -1,0 +1,1 @@
+{"uuid":"588cd5fd-05bc-40fc-b1bb-d8f51cdbf984","name":"com.fb.test.HomePageTest.setUp","children":["ef315c54-e3d5-40fd-ada8-a9530cf72b2e"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1676888645185,"stop":1676888650504}],"afters":[],"start":1676888645185,"stop":1676888650504}
